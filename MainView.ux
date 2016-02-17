@@ -1,0 +1,69 @@
+<App Theme="Basic" Background="#F5F5F5">
+  <ScrollView AllowedScrollDirections="Vertical">
+    <StackPanel>
+      <Panel>
+        <Text TextColor="#FFF" Alignment="BottomCenter" Font="Roboto_Bold" Margin="0, 0, 0, 50" FontSize="30">Sabure Jr</Text>
+        <Panel>
+          <Design.Main.icon Width="100" />
+          <Design.Main.icon_frame Width="106" />
+        </Panel>
+        <Design.Main.cover_over_lay Alignment="Bottom" />
+        <Design.Main.cover />
+      </Panel>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Birthday</Text>
+            <Text TextColor="#777" Alignment="CenterRight" Font="Roboto_Bold">2016.1.1</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">City</Text>
+            <Text TextColor="#777" Alignment="CenterRight" Font="Roboto_Bold">Fukuoka</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Country</Text>
+            <Text TextColor="#777" Alignment="CenterRight" Font="Roboto_Bold">Japan</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Edit</Text>
+            <Text TextColor="#CCC" Alignment="CenterRight" Font="Roboto_Bold">---</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Edit</Text>
+            <Text TextColor="#CCC" Alignment="CenterRight" Font="Roboto_Bold">---</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Edit</Text>
+            <Text TextColor="#CCC" Alignment="CenterRight" Font="Roboto_Bold">---</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Edit</Text>
+            <Text TextColor="#CCC" Alignment="CenterRight" Font="Roboto_Bold">---</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Edit</Text>
+            <Text TextColor="#CCC" Alignment="CenterRight" Font="Roboto_Bold">---</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+      <Design.Main.row_birthday.row_birthday_background Margin="0, 0, 0, 1">
+          <Panel Margin="20,20,20,20">
+            <Text TextColor="#AAA" Alignment="CenterLeft">Edit</Text>
+            <Text TextColor="#CCC" Alignment="CenterRight" Font="Roboto_Bold">---</Text>
+          </Panel>
+      </Design.Main.row_birthday.row_birthday_background>
+    </StackPanel>
+  </ScrollView>
+</App>
